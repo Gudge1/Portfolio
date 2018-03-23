@@ -1,2 +1,13 @@
-# Portfolio2
-Professional portfolio containing Information Security, Business Analysis, Database Design, and Web Development work.
+My name is Alex Gudgel and this my professional portfolio including highlights of my school work at the University of Louisville. I am a network administrator/security analyst for Texas Roadhouse, a southern style restaurant located across the nation and based in Louisville, KY. I have a Bachelor of Science in Business Administration in Computer Information Systems, with a track in Information Security from the University of Louisville.
+
+At my current job at Texas Roadhouse, I constantly interact with information security and networking tools. I spend most of my time interacting with applications like Splunk, that provides indexing and searching of log files. Also, I interact with Active Directory by reseting password, sending out GPOs, and creating user and group accounts. I have experience as a head lifegaurd at the University of Louisville Natatorium. I worked here for over 2 years and spent most of my time managing other lifegaurds, managing patron in the pool, and most importantly making sure the pool area is clean and safe.
+
+In my portfolio you will find five folders: Resume, Information Security, Business Analysis, Database Design, and Web Development. In my Business Analysis folder, I have two sub folders named Cases and Midterm. These sub folders both contain business analysis assessments that display my business writing skills. The assessments show my ability to use theory like Porter's Five Forces, Generic Strategies, and Environmental Factors to analyze real life business problems.
+
+My resume folder contains a pdf version of my resume. My resume shows my last two work positions, personal projects, and personal achievements. It also shows my technical skills using certain programs and coding languages.
+
+In my security folder I inculde multiple assignments showing my skills in network security, database security and forensics. This shows my knowledge in many different aspects of information security.
+
+In my database design folder, I have two subfolders named SQL and Visio. In the SQL folder I have examples of my database design work mainly constructing dynamic SQL queries using SQL server. In assignment A8 I show you numerous examples of queries that contain skills such as nested queries, selecting top 1, selecting distinct items and many more. In assignment A9 I created a trigger and used a cursor to fetch records from a database. In assignmet A10 I show my ability to create a data warehouse and use a stored procedure. In the Visio folder, I have examples of designing relationships between tables, assigning primary keys, assigning secondary keys, and normalization.
+
+The last folder I have is my Web Development folder, which contains multiple programming assignments. The programming assignments show my ability to use different skills such as, creating classes and objects, using parse and tryparse, and creating arrays.
