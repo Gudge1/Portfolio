@@ -6,7 +6,7 @@ In my portfolio you will find five folders: Resume, Information Security, Busine
 
 My resume folder contains a pdf version of my resume. My resume shows my last two work positions, personal projects, and personal achievements. It also shows my technical skills using certain programs and coding languages.
 
-In my security folder I inculde multiple assignments showing my skills in network security, database security and forensics. This shows my knowledge in many different aspects of information security.
+In my Information Security folder I inculde multiple assignments showing my skills in network security including: Using Metasploit to exploit vulnerabilities in Metasploitable, database security including: assigning user roles and permissions, and forensics. This shows my knowledge in many different aspects of information security.
 
 In my database design folder, I have two subfolders named SQL and Visio. In the SQL folder I have examples of my database design work mainly constructing dynamic SQL queries using SQL server. In assignment A8 I show you numerous examples of queries that contain skills such as nested queries, selecting top 1, selecting distinct items and many more. In assignment A9 I created a trigger and used a cursor to fetch records from a database. In assignmet A10 I show my ability to create a data warehouse and use a stored procedure. In the Visio folder, I have examples of designing relationships between tables, assigning primary keys, assigning secondary keys, and normalization.
 
