@@ -2,9 +2,11 @@ My name is Alex Gudgel and this my professional portfolio including highlights o
 
 At my current job at Texas Roadhouse, I constantly interact with information security and networking tools. I spend most of my time interacting with applications like Splunk, that provides indexing and searching of log files. Also, I interact with Active Directory by reseting password, sending out GPOs, and creating user and group accounts. I have experience as a head lifegaurd at the University of Louisville Natatorium. I worked here for over 2 years and spent most of my time managing other lifegaurds, managing patron in the pool, and most importantly making sure the pool area is clean and safe.
 
-In my portfolio you will find five folders: Resume, Information Security, Business Analysis, Database Design, and Web Development. In my Business Analysis folder, I have two sub folders named Cases and Midterm. These sub folders both contain business analysis assessments that display my business writing skills. The assessments show my ability to use theory like Porter's Five Forces, Generic Strategies, and Environmental Factors to analyze real life business problems.
+In my portfolio you will find five folders: Resume, Information Security, Business Analysis, Database Design, and Web Development. 
 
 My resume folder contains a pdf version of my resume. My resume shows my last two work positions, personal projects, and personal achievements. It also shows my technical skills using certain programs and coding languages.
+
+In my Business Analysis folder, I have two sub folders named Cases and Midterm. These sub folders both contain business analysis assessments that display my business writing skills. The assessments show my ability to use theory like Porter's Five Forces, Generic Strategies, and Environmental Factors to analyze real life business problems.
 
 In my Information Security folder I inculde multiple assignments showing my skills in network security including: Using Metasploit to exploit vulnerabilities in Metasploitable, database security including: assigning user roles and permissions, and forensics. This shows my knowledge in many different aspects of information security.
 
