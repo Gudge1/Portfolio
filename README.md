@@ -24,7 +24,7 @@ My Resume folder contains a pdf version of my resume. My resume includes:
 - Technical skills using certain programs and coding languages.
 
 In my Business Analysis folder, I have two sub folders named Cases and Theory Anaylsis. 
-These sub folders both contain business analysis assessments that display my business writing skills including my ability to use theory like: 
+These sub folders both contain business analysis assessments that display my business writing skills, including my ability to use theory like: 
 - Porter's Five Forces. 
 - Generic Strategies.
 - Environmental Factors.
