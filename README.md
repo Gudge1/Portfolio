@@ -15,10 +15,16 @@ In my portfolio you will find five folders:
 - Database Design 
 - Web Development
 
-My Resume folder contains a pdf version of my resume. My resume shows my last two work positions, personal projects, and personal       achievements. It also shows my technical skills using certain programs and coding languages.
+My Resume folder contains a pdf version of my resume. My resume includes:
+- my last two work positions 
+- personal projects, and personal achievements. 
+- technical skills using certain programs and coding languages.
 
 In my Business Analysis folder, I have two sub folders named Cases and Theory Anaylsis. 
-These sub folders both contain business analysis assessments that display my business writing skills. The assessments show my          -ability to use theory like Porter's Five Forces, Generic Strategies, and Environmental Factors to analyze real life business             problems.
+These sub folders both contain business analysis assessments that display my business writing skills including my ability to use theory like: 
+- Porter's Five Forces. 
+- Generic Strategies.
+- Environmental Factors.
 
 In my Information Security folder, I inculde multiple assignments showing my skills in network security including: 
 - Using Metasploit to exploit vulnerabilities in Metasploitable. 
