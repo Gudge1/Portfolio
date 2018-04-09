@@ -4,7 +4,9 @@
 
 *At my current job at Texas Roadhouse, I constantly interact with information security and networking tools. I spend most of my time      interacting with applications including:
   -Splunk, that provides indexing and searching of log files. 
-  -Active Directory by reseting passwords, sending out GPOs, and creating user and group accounts. 
+  -Active Directory by reseting passwords, sending out GPOs, and creating user and group accounts.
+  
+*I have experience as a head lifegaurd at the University of Louisville Natatorium. I worked there for over 2 years and spent most of      my time managing other lifegaurds, managing patrons in the pool, and most importantly making sure the pool area is clean and safe.
 
 *In my portfolio you will find five folders: Resume, Information Security, Business Analysis, Database Design, and Web Development. 
 
