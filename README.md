@@ -6,7 +6,10 @@ At my current job at Texas Roadhouse, I constantly interact with information sec
 - Splunk, that provides indexing and searching of log files. 
 - Active Directory by reseting passwords, sending out GPOs, and creating user and group accounts.
   
-I have experience as a head lifegaurd at the University of Louisville Natatorium. I worked there for over 2 years and spent most of      my time managing other lifegaurds, managing patrons in the pool, and most importantly making sure the pool area is clean and safe.
+I have experience as a head lifegaurd at the University of Louisville Natatorium. I worked there for over 2 years and spent most of      my time: 
+- Managing other lifegaurds.
+- Managing patrons in the pool. 
+- Most importantly making sure the pool area is clean and safe.
 
 In my portfolio you will find five folders: 
 - Resume 
@@ -16,9 +19,9 @@ In my portfolio you will find five folders:
 - Web Development
 
 My Resume folder contains a pdf version of my resume. My resume includes:
-- my last two work positions 
-- personal projects, and personal achievements. 
-- technical skills using certain programs and coding languages.
+- My last two work positions. 
+- Personal projects, and personal achievements. 
+- Technical skills using certain programs and coding languages.
 
 In my Business Analysis folder, I have two sub folders named Cases and Theory Anaylsis. 
 These sub folders both contain business analysis assessments that display my business writing skills including my ability to use theory like: 
